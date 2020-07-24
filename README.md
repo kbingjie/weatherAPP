@@ -4,3 +4,6 @@
 * LocalStorage stores last time checked city and shows the city's weather next time.
 
 Used accuweather API, bootstrap, localStorage
+
+![Image Of WeatherApp]
+(http://kbingjie.com/weatherAPP/img/weatherapp.png)
