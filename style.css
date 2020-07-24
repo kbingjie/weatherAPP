@@ -1,0 +1,26 @@
+body {
+    background-color: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container { max-width: 400px;}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
+
+.card {
+    animation: fade-in;
+    animation-duration: 1s;
+}
+
+@keyframes fade-in {
+    0% {opacity:0}
+    40% {opacity: 0.5;}
+    100% {opacity: 1;}
+}
