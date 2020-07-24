@@ -5,5 +5,4 @@
 
 Used accuweather API, bootstrap, localStorage
 
-![Image Of WeatherApp]
-(http://kbingjie.com/weatherAPP/img/weatherapp.png)
+![Image Of WeatherApp](http://kbingjie.com/weatherAPP/img/weatherapp.png)
